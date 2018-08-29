@@ -4,7 +4,13 @@ import java.util.Scanner;
 public class ExerciciosMatriz {
 
     public static void main(String[] args) {
-        //Exercicio 2
+        /*  Elabore um método exibe matriz, que recebe uma matriz de inteiros e exibe
+            seus valores em forma de matriz. Escreva no main o código que leia os 
+            valores de duas matrizes 2x3 de inteiros.
+            Depois calcule a soma dessas duas matrizes, armazenando a soma em uma
+            terceira matriz e exiba os valores dessa terceira matriz (chame o método
+            exibeMatriz para exibir a matriz).        
+        */
         int[][] matriz1 = new int [2][3];
         int[][] matriz2 = new int [2][3];
         int[][] matriz3 = new int [2][3];
