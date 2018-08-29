@@ -4,7 +4,10 @@ import java.util.Scanner;
 public class ExerciciosMatriz {
 
     public static void main(String[] args) {
-        //Exercicio 3
+        /*  Elabore um programa que leia os valores de uma matriz 3x3 de inteiros. Crie
+            um vetor de 3 elementos, contendo o total de cada coluna e exiba os valores
+            desse vetor.        
+        */
         int[][] matriz = new int [3][3];
         int[] vetor = new int[3];
         
