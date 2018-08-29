@@ -4,14 +4,13 @@ import java.util.Scanner;
 public class ExerciciosMatriz {
 
     public static void main(String[] args) {
-        //Exercicio 4
-        /*
-        Nomes de Amigos e telefones:
-        Rafaela 98141-5101
-        Stephanie 954456703
-        João 95667-0810
-        Yuri 999690543
-        José 968543282
+        /*  Elabore um programa que cria uma matriz 5x2 de Strings. A primeira coluna
+            deverá armazenar os nome de amigos e a segunda coluna deverá armazenar os
+            números de telefones correspondentes (no formato String). Solicite que o
+            usuário digite os dados para preencher a matriz. Depois, solicite que o 
+            usuário digite um nome qualquer. Pesquise o nome na matriz e exiba "Nome 
+            não encontrado", caso o nome não esteja na matriz, ou exiba o telefone
+            correspondente, caso o nome esteja na matriz.        
         */
         String[][] matriz = new String[5][2];
         String nome = "";
