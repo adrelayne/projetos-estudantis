@@ -4,7 +4,15 @@ import java.util.Scanner;
 public class ExerciciosMatriz {
 
     public static void main(String[] args) {
-        //Exercicio 3
+        //Exercicio 4
+        /*
+        Nomes de Amigos e telefones:
+        Rafaela 98141-5101
+        Stephanie 954456703
+        João 95667-0810
+        Yuri 999690543
+        José 968543282
+        */
         String[][] matriz = new String[5][2];
         String nome = "";
         boolean existe = false;
