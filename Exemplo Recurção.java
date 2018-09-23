@@ -1,6 +1,6 @@
 package exemplorecursao;
 
-//@author Aluno
+//@author Adrelayne
 
 public class ExemploRecursao {
     
