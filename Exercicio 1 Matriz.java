@@ -4,10 +4,6 @@ import java.util.Scanner;
 public class ExerciciosMatriz {
 
     public static void main(String[] args) {
-        /* Exercício 1 - Enunciado
-            Escreva um programa que leia os valores de uma matriz 2x3 de inteiros e
-            depois exiba os valores em forma de matriz.
-        */
         int[][] matriz = new int [2][3];
         
         Scanner scan = new Scanner(System.in);
